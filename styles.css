@@ -1,0 +1,27 @@
+* {
+    font-family: 'Abril Fatface', cursive;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("campera.jpg"); 
+}
+.listas__nav {
+    padding: 10px;
+    background-color: #E4945E;
+    color: white; 
+    text-decoration: none; 
+    border-radius: 20%;
+    text-align: center;
+
+}
+li a {
+    background-color: transparent
+ 
+}
+nav{
+    background-color: #404040;
+    color: white;
+    height: 60px;
+
+}
